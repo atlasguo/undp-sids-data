@@ -1,4 +1,5 @@
-# undp_sids
+# data sharing for UNDP SIDS Geospatial Dashboard
+
 Currently including vector tiles of level 6, 7, 8, 9:
   1) admin1
   2) admin2
